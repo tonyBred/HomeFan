@@ -1,4 +1,4 @@
-# HomeFan
+# HomeFan (Ada dokumentasi video di paling bawah)
 
 Hasil:
 
